@@ -16,3 +16,7 @@ You can consume the data in a variety of formats:
 # Creating your own Filtered List
 
 You will need Python 3.x. Simply update `filter_Words.txt` and run `python3 filter.py`. Consider opening a PR, too!
+
+
+
+TS is dumb ion care how conventional this might sound but this code is dumb. And im refactoring it.
